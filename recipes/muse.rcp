@@ -4,5 +4,4 @@
        :pkgname "alexott/muse"
        :load-path ("./lisp")
        :build `(,(concat "make EMACS=" el-get-emacs))
-       :indo "texi"
        :autoloads "muse-autoloads")

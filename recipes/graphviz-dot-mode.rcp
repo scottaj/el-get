@@ -2,4 +2,5 @@
        :type http
        :website "http://www.graphviz.org/"
        :description "graphviz dot language mode"
-       :url "http://www.graphviz.org/Misc/graphviz-dot-mode.el")
+       :url "http://www.graphviz.org/Misc/graphviz-dot-mode.el"
+       :autoloads t)

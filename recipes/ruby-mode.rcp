@@ -1,4 +1,3 @@
 (:name ruby-mode
-       :type http
-       :description "Major mode for editing Ruby files."
-       :url "http://bugs.ruby-lang.org/projects/ruby-trunk/repository/raw/misc/ruby-mode.el")
+       :description "Major mode for editing Ruby files. RubyMode provides font-locking, indentation support, and navigation for Ruby code."
+       :type elpa)

@@ -2,5 +2,4 @@
        :website "https://github.com/davidmiller/pony-mode"
        :description "A Django mode for Emacs."
        :type git
-       :load-path "src"
        :url "https://github.com/davidmiller/pony-mode")

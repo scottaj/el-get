@@ -2,4 +2,5 @@
        :description "Grid Analysis and Display System (GrADS)"
        :website "http://www.iges.org/grads/grads.html"
        :type github
-       :pkgname "yyr/emacs-grads")
+       :pkgname "yyr/emacs-grads"
+       :autoloads t)
