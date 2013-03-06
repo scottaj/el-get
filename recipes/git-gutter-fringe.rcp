@@ -1,0 +1,5 @@
+(:name git-gutter-fringe
+       :description "Show git gutter in each buffer"
+       :type github
+       :pkgname "syohex/emacs-git-gutter-fringe"
+       :features git-gutter-fringe)
