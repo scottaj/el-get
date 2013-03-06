@@ -1,0 +1,5 @@
+(:name git-gutter
+       :description "Show git gutter in each buffer"
+       :type github
+       :pkgname "syohex/emacs-git-gutter"
+       :features git-gutter)
